@@ -1,0 +1,14 @@
+{
+	"name": "tapgen",
+	"version": "0.0.1",
+	"description": "A simple node tap generating tool",
+	"homepage": "https://github.com/gdams/tapgen",
+	"author": "George Adams <george.adams@uk.ibm.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gdams/tapgen"
+	},
+	"bugs": {
+		"email": "george.adams@uk.ibm.com"
+	}
+}
